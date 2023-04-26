@@ -1,3 +1,3 @@
 # Socialbook
 
-[Play Game!](https://socialbookbyrishabh.netlify.app/)
+[See the Website](https://socialbookbyrishabh.netlify.app/)
